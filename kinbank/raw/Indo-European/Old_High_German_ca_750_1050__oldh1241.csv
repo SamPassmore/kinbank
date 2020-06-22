@@ -160,45 +160,19 @@ mC,barn,,,,IE335,miller_old_2015,
 mS,(gom-man)kin(d),,,,IE335,miller_old_2015,
 mFM,uota,,,,IE335,miller_old_2015,
 mMM,uota,,,,IE335,miller_old_2015,
-mSS,nefo~nevo,,,,IE335,miller_old_2015,
+mSS,nevo,,,nefo,IE335,miller_old_2015,
 mSS,eninkilī,,,,IE335,miller_old_2015,
-mDS,nefo~nevo,,,,IE335,miller_old_2015,
+mDS,nevo,,,nefo,IE335,miller_old_2015,
 mDS,eninkilī,,,,IE335,miller_old_2015,
 mMZ,muotera,,,,IE335,miller_old_2015,
 mMZ,niftila,,,,IE335,miller_old_2015,
-mBS,nefo~nevo,,,,IE335,miller_old_2015,
+mBS,nevo,,,nefo,IE335,miller_old_2015,
 mBD,nift(ila),,,,IE335,miller_old_2015,
-mZS,nefo~nevo,,,,IE335,miller_old_2015,
+mZS,nevo,,,nefo,IE335,miller_old_2015,
 mZD,nift(ila),,,,IE335,miller_old_2015,
-mFZD,fetirun-sun,,,,IE335,miller_old_2015,
-mFZD,ōheimes-sun,,,,IE335,miller_old_2015,
-mFZD,muomun-sun,,,,IE335,miller_old_2015,
-mFZD,feterin tohter,,,,IE335,miller_old_2015,
-mFBD,fetirun-sun,,,,IE335,miller_old_2015,
-mFBD,ōheimes-sun,,,,IE335,miller_old_2015,
-mFBD,muomun-sun,,,,IE335,miller_old_2015,
-mFBD,feterin tohter,,,,IE335,miller_old_2015,
-mMBD,fetirun-sun,,,,IE335,miller_old_2015,
-mMBD,ōheimes-sun,,,,IE335,miller_old_2015,
-mMBD,muomun-sun,,,,IE335,miller_old_2015,
-mMBD,feterin tohter,,,,IE335,miller_old_2015,
-mMZD,fetirun-sun,,,,IE335,miller_old_2015,
-mMZD,ōheimes-sun,,,,IE335,miller_old_2015,
-mMZD,muomun-sun,,,,IE335,miller_old_2015,
-mMZD,feterin tohter,,,,IE335,miller_old_2015,
-mFBS,ōheimes-sun,,,,IE335,miller_old_2015,
-mFBS,muomun-sun,,,,IE335,miller_old_2015,
-mFBS,feterin tohter,,,,IE335,miller_old_2015,
-mFZS,fetirun-sun,,,,IE335,miller_old_2015,
-mFZS,ōheimes-sun,,,,IE335,miller_old_2015,
-mFZS,muomun-sun,,,,IE335,miller_old_2015,
-mFZS,feterin tohter,,,,IE335,miller_old_2015,
-mMBS,fetirun-sun,,,,IE335,miller_old_2015,
-mMBS,feterin tohter,,,,IE335,miller_old_2015,
-mMZS,fetirun-sun,,,,IE335,miller_old_2015,
-mMZS,ōheimes-sun,,,,IE335,miller_old_2015,
+mFBS,feterin sun,,,,IE335,miller_old_2015,
+mMBS,ōheimes-sun,,,,IE335,miller_old_2015,
 mMZS,muomun-sun,,,,IE335,miller_old_2015,
-mMZS,feterin tohter,,,,IE335,miller_old_2015,
 mH,man,,,,IE335,miller_old_2015,
 mH,hī(w)o,,,,IE335,miller_old_2015,
 mH,gi-mahalo,,,,IE335,miller_old_2015,
@@ -221,130 +195,24 @@ mMeZ,muotera,,,,IE335,miller_old_2015,Inferred; NA
 mMeZ,niftila,,,,IE335,miller_old_2015,Inferred; NA
 mMyZ,muotera,,,,IE335,miller_old_2015,Inferred; NA
 mMyZ,niftila,,,,IE335,miller_old_2015,Inferred; NA
-meBS,nefo~nevo,,,,IE335,miller_old_2015,Inferred; NA
-myBS,nefo~nevo,,,,IE335,miller_old_2015,Inferred; NA
+meBS,nevo,,,nefo,IE335,miller_old_2015,Inferred; NA
+myBS,nevo,,,nefo,IE335,miller_old_2015,Inferred; NA
 meBD,nift(ila),,,,IE335,miller_old_2015,Inferred; NA
 myBD,nift(ila),,,,IE335,miller_old_2015,Inferred; NA
-meZS,nefo~nevo,,,,IE335,miller_old_2015,Inferred; NA
-myZS,nefo~nevo,,,,IE335,miller_old_2015,Inferred; NA
+meZS,nevo,,,nefo,IE335,miller_old_2015,Inferred; NA
+myZS,nevo,,,nefo,IE335,miller_old_2015,Inferred; NA
 meZD,nift(ila),,,,IE335,miller_old_2015,Inferred; NA
 myZD,nift(ila),,,,IE335,miller_old_2015,Inferred; NA
-mFeBS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFeBS,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFeBS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mFyBS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFyBS,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFyBS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mFeZS,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFeZS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFeZS,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFeZS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mFyZS,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFyZS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFyZS,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFyZS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mFeBD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFeBD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFeBD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
+mFeBS,feterin-sun,,,,IE335,miller_old_2015,Inferred; NA
+mFyBS,feterin-sun,,,,IE335,miller_old_2015,Inferred; NA
 mFeBD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mFyBD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFyBD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFyBD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
 mFyBD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mFeZD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFeZD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFeZD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFeZD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mFyZD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFyZD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFyZD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFyZD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mMeBS,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMeBS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mMyBS,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMyBS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mMeZS,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
 mMeZS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMeZS,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMeZS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mMyZS,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
 mMyZS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMyZS,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMyZS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mMeBD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMeBD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMeBD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMeBD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mMyBD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMyBD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMyBD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMyBD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mMeZD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMeZD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMeZD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMeZD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mMyZD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMyZD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMyZD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMyZD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mFBeS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFBeS,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFBeS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mFByS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFByS,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFByS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mFZeS,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFZeS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFZeS,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFZeS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mFZyS,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFZyS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFZyS,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFZyS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mFBeD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFBeD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFBeD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
 mFBeD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mFByD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFByD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFByD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
 mFByD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mFZeD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFZeD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFZeD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFZeD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mFZyD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFZyD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFZyD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mFZyD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mMBeS,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMBeS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mMByS,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMByS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mMZeS,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
 mMZeS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMZeS,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMZeS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mMZyS,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
 mMZyS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMZyS,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMZyS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mMBeD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMBeD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMBeD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMBeD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mMByD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMByD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMByD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMByD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mMZeD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMZeD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMZeD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMZeD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-mMZyD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMZyD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMZyD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-mMZyD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
 fG,gi-swester,,,,IE335,miller_old_2015,
 fF,fordoro,,,,IE335,miller_old_2015,
 fC,kin(d),,,,IE335,miller_old_2015,
@@ -362,35 +230,9 @@ fBS,nefo~nevo,,,,IE335,miller_old_2015,
 fBD,nift(ila),,,,IE335,miller_old_2015,
 fZS,nefo~nevo,,,,IE335,miller_old_2015,
 fZD,nift(ila),,,,IE335,miller_old_2015,
-fFZD,fetirun-sun,,,,IE335,miller_old_2015,
-fFZD,ōheimes-sun,,,,IE335,miller_old_2015,
-fFZD,muomun-sun,,,,IE335,miller_old_2015,
-fFZD,feterin tohter,,,,IE335,miller_old_2015,
-fFBD,fetirun-sun,,,,IE335,miller_old_2015,
-fFBD,ōheimes-sun,,,,IE335,miller_old_2015,
-fFBD,muomun-sun,,,,IE335,miller_old_2015,
 fFBD,feterin tohter,,,,IE335,miller_old_2015,
-fMBD,fetirun-sun,,,,IE335,miller_old_2015,
-fMBD,ōheimes-sun,,,,IE335,miller_old_2015,
-fMBD,muomun-sun,,,,IE335,miller_old_2015,
-fMBD,feterin tohter,,,,IE335,miller_old_2015,
-fMZD,fetirun-sun,,,,IE335,miller_old_2015,
-fMZD,ōheimes-sun,,,,IE335,miller_old_2015,
-fMZD,muomun-sun,,,,IE335,miller_old_2015,
-fMZD,feterin tohter,,,,IE335,miller_old_2015,
-fFBS,ōheimes-sun,,,,IE335,miller_old_2015,
-fFBS,muomun-sun,,,,IE335,miller_old_2015,
-fFBS,feterin tohter,,,,IE335,miller_old_2015,
-fFZS,fetirun-sun,,,,IE335,miller_old_2015,
-fFZS,ōheimes-sun,,,,IE335,miller_old_2015,
-fFZS,muomun-sun,,,,IE335,miller_old_2015,
-fFZS,feterin tohter,,,,IE335,miller_old_2015,
-fMBS,fetirun-sun,,,,IE335,miller_old_2015,
-fMBS,feterin tohter,,,,IE335,miller_old_2015,
-fMZS,fetirun-sun,,,,IE335,miller_old_2015,
+fFBS,feterin-sun,,,,IE335,miller_old_2015,
 fMZS,ōheimes-sun,,,,IE335,miller_old_2015,
-fMZS,muomun-sun,,,,IE335,miller_old_2015,
-fMZS,feterin tohter,,,,IE335,miller_old_2015,
 fH,man,,,,IE335,miller_old_2015,
 fH,hī(w)o,,,,IE335,miller_old_2015,
 fH,gi-mahalo,,,,IE335,miller_old_2015,
@@ -408,135 +250,37 @@ fW,winia,,,,IE335,miller_old_2015,
 fWF,swehur,,,,IE335,miller_old_2015,
 fWM,swigar,,,,IE335,miller_old_2015,
 fSW,snur(a),,,,IE335,miller_old_2015,
-fDH,eidum~eidim~eidem,,,,IE335,miller_old_2015,
+fDH,eidum,,,,IE335,miller_old_2015,
+fDH,eidim,,,,IE335,miller_old_2015,
+fDH,eidem,,,,IE335,miller_old_2015,
 fMeZ,muotera,,,,IE335,miller_old_2015,Inferred; NA
 fMeZ,niftila,,,,IE335,miller_old_2015,Inferred; NA
 fMyZ,muotera,,,,IE335,miller_old_2015,Inferred; NA
 fMyZ,niftila,,,,IE335,miller_old_2015,Inferred; NA
-feBS,nefo~nevo,,,,IE335,miller_old_2015,Inferred; NA
-fyBS,nefo~nevo,,,,IE335,miller_old_2015,Inferred; NA
+feBS,nevo,,,nefo,IE335,miller_old_2015,Inferred; NA
+fyBS,nevo,,,nefo,IE335,miller_old_2015,Inferred; NA
 feBD,nift(ila),,,,IE335,miller_old_2015,Inferred; NA
 fyBD,nift(ila),,,,IE335,miller_old_2015,Inferred; NA
-feZS,nefo~nevo,,,,IE335,miller_old_2015,Inferred; NA
-fyZS,nefo~nevo,,,,IE335,miller_old_2015,Inferred; NA
+feZS,nevo,,,nefo,IE335,miller_old_2015,Inferred; NA
+fyZS,nevo,,,nefo,IE335,miller_old_2015,Inferred; NA
 feZD,nift(ila),,,,IE335,miller_old_2015,Inferred; NA
 fyZD,nift(ila),,,,IE335,miller_old_2015,Inferred; NA
-fFeBS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFeBS,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFeBS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fFyBS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFyBS,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFyBS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fFeZS,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFeZS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFeZS,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFeZS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fFyZS,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFyZS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFyZS,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFyZS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fFeBD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFeBD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFeBD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
+fFeBS,feterin-sun,,,,IE335,miller_old_2015,Inferred; NA
+fFyBS,feterin-sun,,,,IE335,miller_old_2015,Inferred; NA
 fFeBD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fFyBD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFyBD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFyBD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
 fFyBD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fFeZD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFeZD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFeZD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFeZD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fFyZD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFyZD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFyZD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFyZD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fMeBS,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMeBS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fMyBS,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMyBS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fMeZS,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMeZS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
+fMeBS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
+fMyBS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
 fMeZS,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMeZS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fMyZS,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMyZS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
 fMyZS,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMyZS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fMeBD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMeBD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMeBD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMeBD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fMyBD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMyBD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMyBD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMyBD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fMeZD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMeZD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMeZD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMeZD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fMyZD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMyZD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMyZD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMyZD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fFBeS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFBeS,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFBeS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fFByS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFByS,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFByS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fFZeS,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFZeS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFZeS,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFZeS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fFZyS,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFZyS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFZyS,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFZyS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fFBeD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFBeD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFBeD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
+fFBeS,feterin-sun,,,,IE335,miller_old_2015,Inferred; NA
+fFByS,feterin-sun,,,,IE335,miller_old_2015,Inferred; NA
 fFBeD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fFByD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFByD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFByD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
 fFByD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fFZeD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFZeD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFZeD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFZeD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fFZyD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFZyD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFZyD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fFZyD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fMBeS,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMBeS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fMByS,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMByS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fMZeS,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMZeS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
+fMBeS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
+fMByS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
 fMZeS,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMZeS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fMZyS,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMZyS,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
 fMZyS,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMZyS,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fMBeD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMBeD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMBeD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMBeD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fMByD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMByD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMByD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMByD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fMZeD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMZeD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMZeD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMZeD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
-fMZyD,fetirun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMZyD,ōheimes-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMZyD,muomun-sun,,,,IE335,miller_old_2015,Inferred; NA
-fMZyD,feterin tohter,,,,IE335,miller_old_2015,Inferred; NA
 mB,bruoder,,,,IE89(99),miller_old_2015,
 mZ,swester,,,,IE89(99),miller_old_2015,
 mF,fater,,,,IE89(99),miller_old_2015,
@@ -577,9 +321,7 @@ mMyBS,muomun-sun,,,,IE89(99),miller_old_2015,Inferred; NA
 mFBeS,fetirun-sun,,,,IE89(99),miller_old_2015,Inferred; NA
 mFByS,fetirun-sun,,,,IE89(99),miller_old_2015,Inferred; NA
 mMBeS,ōheimes-sun,,,,IE89(99),miller_old_2015,Inferred; NA
-mMBeS,muomun-sun,,,,IE89(99),miller_old_2015,Inferred; NA
 mMByS,ōheimes-sun,,,,IE89(99),miller_old_2015,Inferred; NA
-mMByS,muomun-sun,,,,IE89(99),miller_old_2015,Inferred; NA
 fB,bruoder,,,,IE89(99),miller_old_2015,
 fZ,swester,,,,IE89(99),miller_old_2015,
 fF,fater,,,,IE89(99),miller_old_2015,
@@ -614,12 +356,10 @@ fMyB,ōheim,,,,IE89(99),miller_old_2015,Inferred; NA
 fFeBS,fetirun-sun,,,,IE89(99),miller_old_2015,Inferred; NA
 fFyBS,fetirun-sun,,,,IE89(99),miller_old_2015,Inferred; NA
 fMeBS,ōheimes-sun,,,,IE89(99),miller_old_2015,Inferred; NA
-fMeBS,muomun-sun,,,,IE89(99),miller_old_2015,Inferred; NA
 fMyBS,ōheimes-sun,,,,IE89(99),miller_old_2015,Inferred; NA
-fMyBS,muomun-sun,,,,IE89(99),miller_old_2015,Inferred; NA
 fFBeS,fetirun-sun,,,,IE89(99),miller_old_2015,Inferred; NA
 fFByS,fetirun-sun,,,,IE89(99),miller_old_2015,Inferred; NA
 fMBeS,ōheimes-sun,,,,IE89(99),miller_old_2015,Inferred; NA
-fMBeS,muomun-sun,,,,IE89(99),miller_old_2015,Inferred; NA
+fMZeS,muomun-sun,,,,IE89(99),miller_old_2015,Inferred; NA
 fMByS,ōheimes-sun,,,,IE89(99),miller_old_2015,Inferred; NA
-fMByS,muomun-sun,,,,IE89(99),miller_old_2015,Inferred; NA
+fMZyS,muomun-sun,,,,IE89(99),miller_old_2015,Inferred; NA
